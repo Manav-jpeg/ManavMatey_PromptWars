@@ -51,7 +51,7 @@ export default function Home() {
         <header className="border-b border-slate-800 pb-6">
           <div className="flex items-center space-x-2 text-indigo-400 font-semibold text-sm">
             <Sparkles className="w-5 h-5" />
-            <span>POWERED BY GOOGLE GEMINI 2.5</span>
+            <span>POWERED BY GOOGLE GEMINI 3.5</span>
           </div>
           <h1 className="text-4xl font-extrabold tracking-tight mt-2 text-white">
             Decision Blind Spot Analyzer
